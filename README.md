@@ -1,9 +1,12 @@
-# Build and Deploy an Amazing 3D Developer Portfolio in React with Three.js
+# 3D Portfolio
 
-![3D Website](https://i.ibb.co/ryytGVx/Screenshot-2023-11-25-at-11-28-11-AM.png)
+This 3D portfolio built with React, Three.js, Tailwind CSS. This project showcases my skills and projects in a visually engaging 3D environment.
 
-### [🌟 Become a top 1% Next.js 14 developer in only one course](https://jsmastery.pro/next14)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
-### [📙 Free Three.js Cheatsheet](https://resource.jsmastery.pro/threejs-cheatsheet)
-### [🌐 Best Hosting for Your Websites](https://hostinger.com/javascript10)
+## Features
 
+- *React and Three.js Integration:* Utilize the power of React for building interactive UI components and Three.js for creating stunning 3D graphics.
+- *Tailwind CSS Styling:* Leverage the utility-first approach of Tailwind CSS for easy and responsive styling.
+- *Vite for Fast Development:* Benefit from Vite's quick development setup and efficient bundling.
+
+# Demo
+https://hiruthik-portfolio.netlify.app/
